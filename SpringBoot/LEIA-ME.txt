@@ -1,0 +1,4 @@
+**Descrição dos Projetos **
+
+
+O projeto "clientRegister" é um projeto de realização de cadastro de clientes atraves do SpringBoot , salvando em um banco de dados embarcado h2, possibitando a inserção de novos clientes, alterações de clientes e tambem a exclusão desses clientes.
